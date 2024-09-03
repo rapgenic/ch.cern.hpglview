@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=HP-GL Viewer
+Comment=HP-GL viewer and converter for HP-GL and HP-GL/2 files
+Categories=Science;ImageProcessing;
+
+Icon=ch.cern.hpglview
+Exec=/app/bin/hpglview
+Terminal=false
